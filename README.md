@@ -9,18 +9,22 @@ Planavau pridėti daugiau kambarių dizainų, tačiau truputį pritrūko laiko.
 Taip pat nespėjau patobulinti UI. Planuose buvo sukurti dinamišką, animuotą vartotojo sąsają.
 
 Vizija ateičiai:
-	*Daugiau kambarių dizainų
-	*Didesnis modelių pasirinkimas
-	*Kelių spalvų parinkimas individualiems objektams, taip pat platesnė spalvų paletė
-	*Asmeninio kambario modeliavimo sistema, kuri leistų vartotojui susikurti savo kambario modelį
-	*3D modelių palaikymas leidžiantis importuoti įvairių objektų modelius bei kambario dizainus
+
+	-Daugiau kambarių dizainų
+	-Didesnis modelių pasirinkimas
+	-Kelių spalvų parinkimas individualiems objektams, taip pat platesnė spalvų paletė
+	-Asmeninio kambario modeliavimo sistema, kuri leistų vartotojui susikurti savo kambario modelį
+	-3D modelių palaikymas leidžiantis importuoti įvairių objektų modelius bei kambario dizainus
 
 Projektas buvo sukurtas naudojant Unity 2021.2.7f1
-Panaudoti įrankiai/pluginai
-	*TextMeshPro
-	*ProBuilder
-	*Unity standart assets - First person controller
+
+Panaudoti įrankiai/pluginai:
+
+	-TextMeshPro
+	-ProBuilder
+	-Unity standart assets - First person controller
 
 Texturų šaltiniai:
- 	*Google images
-	*Textures.com
+
+ 	-Google images
+	-Textures.com
