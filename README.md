@@ -1,6 +1,6 @@
 # RoomDesigner
 
-Jeigu nepavyktų paleisti projekto, pridėjau built projekto versiją kurią galima leisti iš karto, tačiau jei yra galimybė, geriau leisti per Unity Editorių, nes nėra įgyvendintas prisitaikantis prie ekrano UI. 
+Jeigu nepavyktų paleisti projekto, pridėjau built projekto versiją kurią galima leisti iš karto. Ją rasite RoomDesigner/Executable aplankale. Tačiau jei yra galimybė, geriau leisti per Unity Editorių, nes nėra įgyvendintas prisitaikantis prie ekrano UI. 
 
 Projekto kūrimo metu sunkiausia dalis buvo collisions veikimas. Pavyko užtikrinti stabilią Y ašį tačiau X/Z ašimis judinant objektus, kai kurių sienų nefiksuoja ir pereina kiaurai.
 Taip pat buvo susidurta su kameros sukimo problemomis. Lėtai judinant pelę vaizdas sukasi pakankamai tvarkingai, tačiau pasukus greičiau atrodo kad stringa visas projektas, nors vaikštant nesimato jokių našumo nesklandumų
